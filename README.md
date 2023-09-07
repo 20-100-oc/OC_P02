@@ -13,10 +13,10 @@ Exploration, analyse et présentation du dataset
 - présentation
 
 ## Outils
--Python
-  -matplotlib
-  -numpy
-  -pandas
-  -seaborn
-  -sklearn
-  -missingo
+- Python
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - sklearn
+  - missingo
