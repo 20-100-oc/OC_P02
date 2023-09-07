@@ -9,8 +9,8 @@ L'exploration de données a pour but d'optimiser les tournées pour l'entretien 
 Exploration, analyse et présentation du dataset
 
 ## Livrables
-- notebook d'exploration des données
-- présentation
+- Notebook d'exploration des données
+- Présentation
 
 ## Outils
 - Python
