@@ -20,3 +20,4 @@ Exploration, analyse et présentation du dataset
   - seaborn
   - sklearn
   - missingo
+- PowerPoint
