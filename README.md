@@ -2,22 +2,25 @@
 
 ## Contexte
 Participation à un challenge de l'ONG "Data is for good".
-Le dataset contient tous les arbres de Paris gérés par la municipalité.
-L'exploration de données a pour but d'optimiser les tournées pour l'entretien des arbres.
+Le jeu de données contient tous les arbres de Paris gérés par la municipalité.
+L'exploration des données a pour but d'optimiser les tournées d'entretien des arbres.
 
-## Objectifs
-Exploration, analyse et présentation du dataset
+## Tâches
+- Exploration, analyse et présentation du dataset
 
 ## Livrables
 - Notebook d'exploration des données
-- Présentation
+- Présentation PowerPoint
 
 ## Outils
 - Python
-  - matplotlib
-  - numpy
-  - pandas
-  - seaborn
-  - sklearn
-  - missingo
+- Git / Github
+- Jupyter notebook / Python IDE
 - PowerPoint
+
+### Python : libraires additionnelles
+- numpy
+- pandas
+- seaborn
+- sklearn
+- missingo
