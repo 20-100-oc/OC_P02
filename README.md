@@ -6,7 +6,9 @@ Le jeu de données contient tous les arbres de Paris gérés par la municipalit�
 L'exploration des données a pour but d'optimiser les tournées d'entretien des arbres.
 
 ## Tâches
-- Exploration, analyse et présentation du dataset
+- Exploration du dataset
+- Analyse du dataset
+- présentation visuelle des résultats
 
 ## Livrables
 - Notebook d'exploration des données
